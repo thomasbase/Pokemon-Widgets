@@ -1,9 +1,5 @@
 # Pokemon-Widgets
 ## Project Scope
-<<<<<<< HEAD
-
-=======
->>>>>>> 1267ccb (Reorganize files)
 This project demonstrates an end-to-end data workflow by extracting, cleaning, and visualizing rich structured data from online Pokémon databases. While the subject matter is gamified, the techniques and technologies reflect real-world data science and data engineering challenges, including **web scraping**, **data wrangling**, and **interactive analytics**.
 The scope of this project is limited to Pokemon from generations 1-5 (games that were playable on the Nintendo DS lite).
 
@@ -68,7 +64,4 @@ Below are screenshots demonstrating user queries from the `Widgets.ipynb` notebo
 - **Pandas / DataFrames**
 - **IPyWidgets** for interactivity
 - **Matplotlib / Plotly** for visualization
-<<<<<<< HEAD
-=======
 >>>>>>> ec9434c (Update README):README.md
->>>>>>> 1267ccb (Reorganize files)

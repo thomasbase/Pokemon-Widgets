@@ -26,6 +26,11 @@ The project is composed of multiple interconnected Jupyter notebooks:
 
 ---
 
+## Usage
+[Install and open Jupyter Notebook](https://jupyter.org/install)
+
+In the Widgets notebook, select "run", then "run all" on the bar at the top of the page. This will execute every command in the notebook, prompting the user to select their preferences at the bottom of the notebook. To change viewing preference, rather than selecting "run all" again, select inside the last cell of the notebook and press shift+enter on the keyboard. This will re-execute the single block of code that triggers the display of the widgets.
+
 ## Sample Outputs
 Below are screenshots demonstrating user queries from the `Widgets.ipynb` notebook:
 
